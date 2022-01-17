@@ -6,7 +6,7 @@
 ### Latest Projects:
 
 - [Project for digital agency](https://play.google.com/store/apps/dev?id=4990959150679829297)
-- [Project Codes for digital agency](https://github.com/Hamidullo?tab=repositories)
+- [Project's Codes for digital agency](https://github.com/Hamidullo?tab=repositories)
 
 
 ### Languages and Tools:
