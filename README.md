@@ -1,31 +1,20 @@
-<!-- ![Header](https://github.com/JahongirIzzatullaev/JahongirIzzatullaev/blob/main/assets/logo.png) -->
+<!-- ![Header]() -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jahongir</h1>
-<h3 align="center">I'm a Frontend Web Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamidullo</h1>
+<h3 align="center">I'm a Android Developer</h3>
 
 ### Latest Projects:
 
-- [Project for digital agency](https://jahongirizzatullaev.github.io/digital-agency/index.html)
-- [Project for financial advisory](https://jahongirizzatullaev.github.io/financial-advisory/)
+- [Project for digital agency](https://play.google.com/store/apps/dev?id=4990959150679829297)
 
 ### Languages and Tools:
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+    <img src="https://img.icons8.com/nolan/50/android-os.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java.png"/>
     <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> 
     <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
    
 </p>
