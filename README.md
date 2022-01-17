@@ -12,7 +12,7 @@
 <p align="left"> 
     <img src="https://img.icons8.com/nolan/50/android-os.png"/>
     <img src="https://img.icons8.com/nolan/50/android-studio--v3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java.png"/>
+    <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <img src="https://img.icons8.com/nolan/64/api-settings.png"/>
     <img src="https://img.icons8.com/nolan/50/json.png"/>
