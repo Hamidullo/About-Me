@@ -11,20 +11,23 @@
 
 <p align="left"> 
     <img src="https://img.icons8.com/nolan/50/android-os.png"/>
+    <img src="https://img.icons8.com/nolan/50/android-studio--v3.png"/>
     <img src="https://img.icons8.com/color/48/000000/java.png"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+    <img src="https://img.icons8.com/nolan/64/api-settings.png"/>
+    <img src="https://img.icons8.com/nolan/50/json.png"/>
+    <img src="https://img.icons8.com/nolan/50/jetbrains--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/figma.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/nolan/50/sql.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
    
 </p>
 
 ### Follow Me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jahongir_izzatullaev)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/jahongir.izzatullaev/?hl=ru)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/jahongir-izzatullaev-012357184/)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100013080578687)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Deku_HT)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100037596997168)
 
 
 <!-- <div>
