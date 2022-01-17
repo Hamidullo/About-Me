@@ -17,10 +17,10 @@
     <img src="https://img.icons8.com/nolan/64/api-settings.png"/>
     <img src="https://img.icons8.com/nolan/50/json.png"/>
     <img src="https://img.icons8.com/nolan/50/jetbrains--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/nolan/64/figma.png"/>
+    <img src="https://img.icons8.com/nolan/64/git.png"/>
     <img src="https://img.icons8.com/nolan/50/sql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
+    <img src="https://img.icons8.com/nolan/64/windows-10.png"/>
    
 </p>
 
